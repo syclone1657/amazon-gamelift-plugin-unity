@@ -1,0 +1,22 @@
+{
+    "name": "Traxion.Editor",
+    "rootNamespace": "",
+    "references": [
+        "AmazonGameLiftPlugin.EditorCoreAPI",
+        "AmazonGameLiftPlugin.Runtime.Core",
+        "AmazonGameLiftPlugin.Runtime",
+        "AmazonGameLiftPlugin.Editor",
+        "Traxion"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
